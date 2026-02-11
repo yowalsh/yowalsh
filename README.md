@@ -1,9 +1,9 @@
-# Hi, I'm elmikewalsh (Michael Walsh)
+# Hi, I'm yowalsh (Michael Walsh, previously **elmikewalsh**)
 
 
 
 
-Hello! My name is Mike, and I'm currently family-ing, designing, coding & translating, writing an occasional thought, and enjoying a good whisky between city and country in south-central Chile.
+Hello! My name is Michael, and I'm currently family-ing, designing, coding & translating, writing an occasional thought, and enjoying a good whisky between city and country in south-central Chile.
 
 
 
