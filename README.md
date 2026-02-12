@@ -23,10 +23,10 @@ You can see more of my recent projects here: https://yowalsh.dev/my-work/
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
 - [A Random List of Silly Things I Hate](https://yowalsh.com/a-random-list-of-silly-things-i-hate/)
+- [My Baguette Is Not For Touching](https://yowalsh.com/my-baguette-is-not-for-touching/)
 - [A Trip to Buenos Aires](https://yowalsh.com/a-trip-to-buenos-aires/)
 - [Tool Obsession](https://yowalsh.com/tool-obsession/)
 - [The Perfect Carrot](https://yowalsh.com/one-perfect-carrot/)
-- [Email &amp; Encryption](https://yowalsh.com/email-and-encryption/)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Follow Me Here:**
