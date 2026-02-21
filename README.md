@@ -22,11 +22,11 @@ You can see more of my recent projects here: https://yowalsh.dev/my-work/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Reddit: Hating What You Love](https://yowalsh.com/reddit-hating-what-you-love/)
 - [American’t](https://yowalsh.com/americant/)
 - [A Random List of Silly Things I Hate](https://yowalsh.com/a-random-list-of-silly-things-i-hate/)
 - [My Baguette Is Not For Touching](https://yowalsh.com/my-baguette-is-not-for-touching/)
 - [A Trip to Buenos Aires](https://yowalsh.com/a-trip-to-buenos-aires/)
-- [Tool Obsession](https://yowalsh.com/tool-obsession/)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Follow Me Here:**
