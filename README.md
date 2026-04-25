@@ -22,11 +22,11 @@ You can see more of my recent projects here: https://yowalsh.dev/my-work/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Reality: Make It Until You Fake It](https://yowalsh.com/reality-make-it-until-you-fake-it/)
 - [In Your Face, Not My Face](https://yowalsh.com/in-your-face-not-my-face/)
 - [Reddit: Hating What You Love](https://yowalsh.com/reddit-hating-what-you-love/)
 - [American’t](https://yowalsh.com/americant/)
 - [A Random List of Silly Things I Hate](https://yowalsh.com/a-random-list-of-silly-things-i-hate/)
-- [My Baguette Is Not For Touching](https://yowalsh.com/my-baguette-is-not-for-touching/)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Follow Me Here:**
