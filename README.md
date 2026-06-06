@@ -22,11 +22,11 @@ You can see more of my recent projects here: https://yowalsh.dev/my-work/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
+- [Boycott Everything, Because Everyone Is Evil](https://yowalsh.com/boycott-everything-because-everyone-is-evil/)
 - [Instagram: Creepy A.F.](https://yowalsh.com/instagram-creepy-af/)
 - [Reality: Make It Until You Fake It](https://yowalsh.com/reality-make-it-until-you-fake-it/)
 - [In Your Face, Not My Face](https://yowalsh.com/in-your-face-not-my-face/)
 - [Reddit: Hating What You Love](https://yowalsh.com/reddit-hating-what-you-love/)
-- [American’t](https://yowalsh.com/americant/)
 <!-- BLOG-POST-LIST:END -->
 
 ### **Follow Me Here:**
