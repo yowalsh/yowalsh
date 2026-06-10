@@ -10,11 +10,11 @@ Hello! My name is Michael Walsh, and I'm currently family-ing, designing, coding
 
 ### **Want to see some of my latest projects?:**
 <!-- PORTFOLIO:START -->
-- [Personal Website Redesign](https://walsh.cl/personal-website-redesign/)
-- [Publii CMS: Spanish Translation](https://walsh.cl/publii-cms-spanish-translation/)
-- [Minimalist Site For Chilean Professor](https://walsh.cl/minimalist-site-for-chilean-professor/)
-- [Fast &amp; Minimalist Personal Site](https://walsh.cl/fast-and-minimalist-personal-site/)
-- [Chilean Culture eBook](https://walsh.cl/chilean-culture-ebook/)
+- [Personal Website Redesign](https://yowalsh.dev/personal-website-redesign/)
+- [Publii CMS: Spanish Translation](https://yowalsh.dev/publii-cms-spanish-translation/)
+- [Minimalist Site For Chilean Professor](https://yowalsh.dev/minimalist-site-for-chilean-professor/)
+- [Fast &amp; Minimalist Personal Site](https://yowalsh.dev/fast-and-minimalist-personal-site/)
+- [Chilean Culture eBook](https://yowalsh.dev/chilean-culture-ebook/)
 <!-- PORTFOLIO:END -->
 
 
