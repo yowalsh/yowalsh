@@ -22,7 +22,7 @@ You can see more of my recent projects here: https://yowalsh.dev/my-work/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
-- [A Pet Project: Zociacl](https://walsh.cl/a-pet-project-zociacl/)
+- [A Pet Project: Zodiacl](https://walsh.cl/a-pet-project-zodiacl/)
 - [You&#39;re Going to Beg For An Algocracy](https://walsh.cl/youre-going-to-beg-for-an-algocracy/)
 - [Error 404: Peace &amp; Unity Not Found - World Cup Edition](https://walsh.cl/error-404-peace-and-unity-not-found-world-cup-edition/)
 - [Boycott Everything, Because Everyone Is Evil](https://walsh.cl/boycott-everything-because-everyone-is-evil/)
