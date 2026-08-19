@@ -19,7 +19,7 @@ Hello! My name is Michael Walsh, and I'm currently family-ing, designing, coding
 <!-- PORTFOLIO:END -->
 
 
-You can see more of my recent projects here: https://yowalsh.dev/my-work/
+You can see more of my recent projects here: https://walsh.cl/my-work/
 
 ### **Latest Blog Posts:**
 <!-- BLOG-POST-LIST:START -->
